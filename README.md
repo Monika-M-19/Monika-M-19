@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Monika!
 
-🎓 MCA Student | 💻 Web Development Learner | ☕ Java Project Builder | 📊 Data Analysis Learner
+🎓 MCA Student | 💻 Web Development Learner | ☕ Java Project Builder | 🐍 Python Projects | 📊 Data Analysis Learner
 
-I'm an MCA student interested in **web development, software development, data analysis, and building practical projects**.  
+I'm an MCA student interested in **web development, software development, Python applications, data analysis, and building practical projects**.  
 I enjoy learning by creating projects, improving my technical skills, and documenting my work on GitHub.
 
 ## 🚀 Currently
@@ -34,7 +34,7 @@ I enjoy learning by creating projects, improving my technical skills, and docume
 
 ## 📌 Featured Projects
 
-### 🎮 Tic Tac Toe — Java Swing
+### 🎮 Java Swing Tic Tac Toe
 
 A desktop-based Tic Tac Toe game built using **Java Swing**.
 
@@ -47,7 +47,7 @@ A desktop-based Tic Tac Toe game built using **Java Swing**.
 - Winning move indication
 - Interactive GUI
 
-🔗 Repository: [MCA-Java-mini-project](https://github.com/Monika-M-19/MCA-Java-mini-project)
+🔗 Repository: [Java-Swing-Tic-Tac-Toe](https://github.com/Monika-M-19/Java-Swing-Tic-Tac-Toe)
 
 ---
 
@@ -93,6 +93,22 @@ A Python Tkinter desktop application for comparing loan options.
 - Charts using Matplotlib
 
 🔗 Repository: [Loan-Comparison-System](https://github.com/Monika-M-19/Loan-Comparison-System)
+
+---
+
+### 🚕 Cab Booking System
+
+A Python and Streamlit-based cab booking system using SQLite for data storage.
+
+**Features:**
+
+- Cab booking interface
+- Streamlit-based web application
+- SQLite database storage
+- Booking data handling using pandas and NumPy
+- Data visualization using Matplotlib
+
+🔗 Repository: [Cab-Booking-System](https://github.com/Monika-M-19/Cab-Booking-System)
 
 ---
 
