@@ -1,71 +1,61 @@
 # 👋 Hi, I'm Monika!
 
-🎓 **MCA Student | Web Developer | Building Real-World Projects**
+🎓 MCA Student | 💻 Web Development Learner | ☕ Java Project Builder
 
-I'm an MCA student passionate about **web development, software development, and learning new technologies**. I enjoy turning ideas into practical projects and continuously improving my technical skills.
+I'm an MCA student interested in **web development, software development, and building practical projects**.  
+I enjoy learning by creating projects and improving my skills step by step.
 
-### 🚀 Currently
-- 🌱 Improving my **Web Development & JavaScript** skills
-- 💻 Building projects to strengthen my development skills
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🤖 Exploring how **AI tools** can improve software development
-- 🎯 Preparing myself for future **internships and placements**
+## 🚀 Currently
 
-### 🛠️ Technologies & Tools
+- 🌱 Improving my HTML and CSS skills
+- ☕ Practicing Java and Java Swing
+- 📂 Building and documenting my GitHub projects
+- 🎯 Learning how to create clean and professional project repositories
 
-**Languages**
+## 🛠️ Skills
+
+- HTML5
+- CSS3
 - Java
-- Python
-- JavaScript
-- HTML
-- CSS
-
-**Web Development**
-- Bootstrap
-- React / React Native basics
-
-**Database**
-- MySQL
-- SQLite
-
-**Tools**
+- Java Swing
+- AWT
+- File Handling
 - Git & GitHub
-- VS Code
-- Android Studio
-- Postman
-- Tableau
 
-### 💻 Featured Projects
+## 📌 Featured Projects
 
-🔹 **MCA Java Mini Projects**  
-A collection of Java-based academic and mini projects developed while pursuing my MCA.
+### 🎮 Tic Tac Toe — Java Swing
 
-🔹 **Web Development Projects**  
-A collection of projects created while learning and practicing front-end web development.
+A desktop-based Tic Tac Toe game built using **Java Swing**.
 
-### 💼 Experience
+**Features:**
 
-**Frontend Web Development Intern**  
-Codec Technologies India  
-*April 2025 – May 2025*
+- Player vs Player mode
+- Player vs Computer mode
+- Score tracking
+- Persistent score storage
+- Winning move indication
+- Interactive GUI
 
-Gained practical experience in front-end web development and worked on building and improving web interfaces.
+🔗 Repository: [MCA-Java-mini-project](https://github.com/Monika-M-19/MCA-Java-mini-project)
 
-### 📚 Education
+---
 
-🎓 **Master of Computer Applications (MCA)**  
-St. Agnes College, Mangalore
+### 🌐 Web Development Projects
 
-🎓 **Bachelor of Computer Applications (BCA)**  
-Seshadripuram College, Tumkur
+A collection of HTML and CSS projects created to practice webpage structure, styling, forms, and user-interface design.
 
-### 🎯 My Goal
+**Projects included:**
 
-> **Learn continuously. Build consistently. Grow every day.**
+- Recipe Website
+- Student Registration Form
 
-I'm currently focused on developing strong technical skills, building meaningful projects, and preparing for a successful career in the software industry.
+🔗 Repository: [Web-Developement-Projects](https://github.com/Monika-M-19/Web-Developement-Projects)
 
-### 🤝 Let's Connect
+## 🎯 Goal
 
-💼 [LinkedIn](https://www.linkedin.com/)  
-🐙 [GitHub](https://github.com/Monika-M-19)
+My goal is to become a skilled developer by building real projects, strengthening my programming basics, and learning new technologies through consistent practice.
+
+## 📫 Connect With Me
+
+- GitHub: [Monika-M-19](https://github.com/Monika-M-19)
