@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Monika!
 
-🎓 MCA Student | 💻 Web Development Learner | ☕ Java Project Builder
+🎓 MCA Student | 💻 Web Development Learner | ☕ Java Project Builder | 📊 Data Analysis Learner
 
-I'm an MCA student interested in **web development, software development, and building practical projects**.  
-I enjoy learning by creating projects and improving my skills step by step.
+I'm an MCA student interested in **web development, software development, data analysis, and building practical projects**.  
+I enjoy learning by creating projects, improving my technical skills, and documenting my work on GitHub.
 
 ## 🚀 Currently
 
 - 🌱 Improving my HTML and CSS skills
 - ☕ Practicing Java and Java Swing
+- 🐍 Building Python-based applications
+- 📊 Exploring data analysis and visualization
 - 📂 Building and documenting my GitHub projects
-- 🎯 Learning how to create clean and professional project repositories
 
 ## 🛠️ Skills
 
@@ -19,7 +20,16 @@ I enjoy learning by creating projects and improving my skills step by step.
 - Java
 - Java Swing
 - AWT
-- File Handling
+- Python
+- Tkinter
+- SQLite3
+- pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Streamlit
+- Tableau
+- Microsoft Excel
 - Git & GitHub
 
 ## 📌 Featured Projects
@@ -51,6 +61,54 @@ A collection of HTML and CSS projects created to practice webpage structure, sty
 - Student Registration Form
 
 🔗 Repository: [Web-Developement-Projects](https://github.com/Monika-M-19/Web-Developement-Projects)
+
+---
+
+### 📈 Cryptocurrency Market Trend Analyser
+
+A Python and Streamlit project for analyzing cryptocurrency market trends using data visualization.
+
+**Features:**
+
+- Cryptocurrency market data analysis
+- Interactive Streamlit dashboard
+- SQLite database storage
+- Data visualization using Matplotlib and Plotly
+- Data handling using pandas and NumPy
+
+🔗 Repository: [Cryptocurrency-Market-Trend-Analyser](https://github.com/Monika-M-19/Cryptocurrency-Market-Trend-Analyser)
+
+---
+
+### 💰 Loan Comparison System
+
+A Python Tkinter desktop application for comparing loan options.
+
+**Features:**
+
+- Loan comparison system
+- Tkinter-based desktop GUI
+- SQLite database storage
+- Loan calculation logic
+- Charts using Matplotlib
+
+🔗 Repository: [Loan-Comparison-System](https://github.com/Monika-M-19/Loan-Comparison-System)
+
+---
+
+### 📊 Employment Anxiety and Career Readiness Analysis
+
+A Tableau-based data analysis project on employment anxiety and career readiness among students.
+
+**Features:**
+
+- Student survey analysis
+- Tableau dashboard
+- Career readiness analysis
+- Employment anxiety analysis
+- PDF project report
+
+🔗 Repository: [Employment-Anxiety-Career-Readiness-Analysis](https://github.com/Monika-M-19/Employment-Anxiety-Career-Readiness-Analysis)
 
 ## 🎯 Goal
 
