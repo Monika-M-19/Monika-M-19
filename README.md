@@ -60,7 +60,7 @@ A collection of HTML and CSS projects created to practice webpage structure, sty
 - Recipe Website
 - Student Registration Form
 
-🔗 Repository: [Web-Developement-Projects](https://github.com/Monika-M-19/Web-Developement-Projects)
+🔗 Repository: [Web-Development-Projects](https://github.com/Monika-M-19/Web-Development-Projects)
 
 ---
 
@@ -80,22 +80,6 @@ A Python and Streamlit project for analyzing cryptocurrency market trends using 
 
 ---
 
-### 💰 Loan Comparison System
-
-A Python Tkinter desktop application for comparing loan options.
-
-**Features:**
-
-- Loan comparison system
-- Tkinter-based desktop GUI
-- SQLite database storage
-- Loan calculation logic
-- Charts using Matplotlib
-
-🔗 Repository: [Loan-Comparison-System](https://github.com/Monika-M-19/Loan-Comparison-System)
-
----
-
 ### 🚕 Cab Booking System
 
 A Python and Streamlit-based cab booking system using SQLite for data storage.
@@ -109,6 +93,22 @@ A Python and Streamlit-based cab booking system using SQLite for data storage.
 - Data visualization using Matplotlib
 
 🔗 Repository: [Cab-Booking-System](https://github.com/Monika-M-19/Cab-Booking-System)
+
+---
+
+### 💰 Loan Comparison System
+
+A Python Tkinter desktop application for comparing loan options.
+
+**Features:**
+
+- Loan comparison system
+- Tkinter-based desktop GUI
+- SQLite database storage
+- Loan calculation logic
+- Charts using Matplotlib
+
+🔗 Repository: [Loan-Comparison-System](https://github.com/Monika-M-19/Loan-Comparison-System)
 
 ---
 
