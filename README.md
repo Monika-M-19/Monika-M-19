@@ -101,7 +101,7 @@ The system uses a **MobileNetV2-based Deep Learning model** to identify plant di
 - 🖥️ Interactive Streamlit interface
 - 📈 Data analysis and visualization
 
-### 🛠️ Technology Used
+### 🛠️ Technologies Used
 
 - Python
 - TensorFlow
@@ -132,7 +132,7 @@ Due to the large size of the dataset, the complete training dataset is not inclu
 
 The project focuses on creating a digital library management platform with an organized and user-friendly interface.
 
-### 🛠️ Technology Used
+### 🛠️ Technologies Used
 
 - Flutter
 - Dart
@@ -177,7 +177,7 @@ A desktop-based **Tic Tac Toe game** developed using Java Swing.
 - ✖️ Winning move indication
 - 🖥️ Interactive graphical interface
 
-### 🛠️ Technology Used
+### 🛠️ Technologies Used
 
 - Java
 - Java Swing
@@ -203,7 +203,7 @@ A Python and Streamlit-based application for analyzing cryptocurrency market tre
 - 🐼 Data processing using pandas
 - 🔢 Numerical analysis using NumPy
 
-### 🛠️ Technology Used
+### 🛠️ Technologies Used
 
 - Python
 - Streamlit
@@ -232,7 +232,7 @@ A Python and Streamlit-based **Cab Booking System** designed to manage cab booki
 - 📊 Data analysis
 - 📈 Data visualization
 
-### 🛠️ Technology Used
+### 🛠️ Technologies Used
 
 - Python
 - Streamlit
@@ -259,7 +259,7 @@ A Python Tkinter desktop application designed to compare different loan options 
 - 🗄️ SQLite database
 - 📊 Matplotlib charts
 
-### 🛠️ Technology Used
+### 🛠️ Technologies Used
 
 - Python
 - Tkinter
@@ -284,7 +284,7 @@ A Tableau-based data analysis project focused on studying **employment anxiety a
 - 📈 Employment anxiety analysis
 - 📄 Project report
 
-### 🛠️ Technology Used
+### 🛠️ Technologies Used
 
 - Tableau
 - Microsoft Excel
@@ -297,23 +297,45 @@ A Tableau-based data analysis project focused on studying **employment anxiety a
 
 ---
 
-## 🌐 Web Development Projects
+# 🌐 Web Development Projects
 
-A collection of HTML and CSS projects created to practice web development fundamentals, webpage structure, forms, styling, and user-interface design.
+## 🍲 Recipe Website
 
-### 📌 Projects Included
+A recipe website developed using **HTML5 and CSS3**, featuring different food categories, recipe sections, and a visually appealing user interface.
 
-- 🍳 Recipe Website
-- 📝 Student Registration Form
-
-### 🛠️ Technology Used
+### 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 
 ### 📌 Repository
 
-**Monika-M-19/Web-Development-Projects**
+**Monika-M-19/Recipe-Website**
+
+---
+
+## 📝 Student Registration Form
+
+A simple and user-friendly **Student Registration Form** developed using **HTML5 and CSS3** for collecting and organizing student information.
+
+### ✨ Features
+
+- 👤 Student personal information fields
+- 📧 Email and contact details
+- 🎓 Academic information
+- 📝 Form input fields and selections
+- 🎨 Custom CSS styling
+- 📋 Clean and organized form layout
+- 💻 User-friendly interface
+
+### 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+
+### 📌 Repository
+
+**Monika-M-19/Student-Registration-Form**
 
 ---
 
@@ -329,7 +351,8 @@ A collection of HTML and CSS projects created to practice web development fundam
 | 6 | 🚕 Cab Booking System | Python, Streamlit, SQLite |
 | 7 | 💰 Loan Comparison System | Python, Tkinter, SQLite |
 | 8 | 📊 Employment Anxiety & Career Readiness Analysis | Tableau, Excel |
-| 9 | 🌐 Web Development Projects | HTML5, CSS3 |
+| 9 | 🍲 Recipe Website | HTML5, CSS3 |
+| 10 | 📝 Student Registration Form | HTML5, CSS3 |
 
 ---
 
